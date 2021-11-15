@@ -1,0 +1,23 @@
+Transaction Type: Deposit
+Transaction Number: 893625
+Account Owner: user12
+Date of Transaction: 2021-10-13 13:45:01.391924
+Previous Amount: R12213.00
+Deposited Amount: R21312.00
+New Amount: R33525.00
+
+Transaction Type: Withdrawal
+Transaction Number: 97602
+Account Owner: user12
+Date of Transaction: 2021-10-13 13:46:21.024594
+Previous Amount: R33525.00
+Withdrawal Amount: R213.00
+New Amount: R33312.00
+
+Transaction Type: Withdrawal
+Transaction Number: 330550
+Account Owner: user12
+Date of Transaction: 2021-10-13 13:46:21.024594
+Previous Amount: R33312.00
+Withdrawal Amount: R9089.00
+New Amount: R24223.00

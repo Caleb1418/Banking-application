@@ -1,0 +1,63 @@
+Transaction Type: Withdrawal
+Transaction Number: 320319
+Account Owner: kingkilla
+Date of Transaction: 2021-10-15 13:53:57.986912
+Previous Amount: R213231231.00
+Withdrawal Amount: R699999.00
+New Amount: R212531232.00
+
+Transaction Type: Withdrawal
+Transaction Number: 611680
+Account Owner: kingkilla
+Date of Transaction: 2021-10-15 13:53:57.986912
+Previous Amount: R212531232.00
+Withdrawal Amount: R9999999.00
+New Amount: R202531233.00
+
+Transaction Type: Withdrawal
+Transaction Number: 609777
+Account Owner: kingkilla
+Date of Transaction: 2021-10-15 13:53:57.986912
+Previous Amount: R202531233.00
+Withdrawal Amount: R2000000.00
+New Amount: R200531233.00
+
+Transaction Type: Deposit
+Transaction Number: 8316
+Account Owner: kingkilla
+Date of Transaction: 2021-10-15 13:53:57.986912
+Previous Amount: R200531233.00
+Deposited Amount: R2000000.00
+New Amount: R202531233.00
+
+Transaction Type: Deposit
+Transaction Number: 748606
+Account Owner: kingkilla
+Date of Transaction: 2021-10-15 13:53:57.986912
+Previous Amount: R202531233.00
+Deposited Amount: R2000000.00
+New Amount: R204531233.00
+
+Transaction Type: Withdrawal
+Transaction Number: 723913
+Account Owner: kingkilla
+Date of Transaction: 2021-10-15 13:53:57.986912
+Previous Amount: R204531233.00
+Withdrawal Amount: R20000000.00
+New Amount: R184531233.00
+
+Transaction Type: Withdrawal
+Transaction Number: 59687
+Account Owner: kingkilla
+Date of Transaction: 2021-10-15 13:53:57.986912
+Previous Amount: R184531233.00
+Withdrawal Amount: R20000000.00
+New Amount: R164531233.00
+
+Transaction Type: Withdrawal
+Transaction Number: 39433
+Account Owner: kingkilla
+Date of Transaction: 2021-10-15 13:53:57.986912
+Previous Amount: R164531233.00
+Withdrawal Amount: R16000000.00
+New Amount: R148531233.00

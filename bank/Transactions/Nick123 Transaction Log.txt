@@ -1,0 +1,39 @@
+Transaction Type: Deposit
+Transaction Number: 564425
+Account Owner: Nick123
+Date of Transaction: 2021-10-13 13:27:50.307624
+Previous Amount: R120000.00
+Deposited Amount: R1222.00
+New Amount: R121222.00
+
+Transaction Type: Deposit
+Transaction Number: 577323
+Account Owner: Nick123
+Date of Transaction: 2021-10-13 13:31:04.941333
+Previous Amount: R121222.00
+Deposited Amount: R213.00
+New Amount: R121435.00
+
+Transaction Type: Deposit
+Transaction Number: 17645
+Account Owner: Nick123
+Date of Transaction: 2021-10-13 13:31:04.941333
+Previous Amount: R121435.00
+Deposited Amount: R213.00
+New Amount: R121648.00
+
+Transaction Type: Withdrawal
+Transaction Number: 774430
+Account Owner: Nick123
+Date of Transaction: 2021-10-13 13:48:22.929601
+Previous Amount: R121648.00
+Withdrawal Amount: R2000.00
+New Amount: R119648.00
+
+Transaction Type: Deposit
+Transaction Number: 298532
+Account Owner: Nick123
+Date of Transaction: 2021-10-13 14:07:15.409530
+Previous Amount: R119648.00
+Deposited Amount: R1000.00
+New Amount: R120648.00
